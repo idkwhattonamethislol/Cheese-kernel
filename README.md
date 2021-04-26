@@ -4,4 +4,5 @@ feel free to do whatever you want XD
 
 # Build
 cd src/kernel
+
 make kernel
