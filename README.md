@@ -1,6 +1,5 @@
 # Cheese-kernel
-A very bad kernel made using AbsurdPoncho's kernel repository 
-feel free to do whatever you want XD
+A proto-operating system kernel made by me. Feel free to do anything you want with it.
 
 # Build
 On linux:
